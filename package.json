@@ -8,6 +8,7 @@
     "postinstall": "node .scripts/badge.js"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "directory-tree": "^3.0.1",
     "jest": "^27.4.7",
     "jest-json-schema": "^6.0.0",
